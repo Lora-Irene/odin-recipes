@@ -1,5 +1,5 @@
 p {
-  font-family: Lora, sans-serif;
+	font-family: Lora, sans-serif;
 }
 
 h1,
@@ -8,5 +8,15 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Ubuntu, serif;
+	font-family: Ubuntu, serif;
+}
+
+div,
+img {
+	border: solid 2px;
+	border-radius: 4px;
+	margin: 20px;
+}
+div {
+	padding: 10px;
 }
